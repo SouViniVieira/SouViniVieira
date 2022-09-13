@@ -6,7 +6,8 @@ Product Designer | Front-end programming enthusiast.
   <a href = "mailto:vinicius1535@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C4302B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/souvinivieira" target="_blank"><img src="https://img.shields.io/badge/-viniciussaturnino-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
-#<br>
+# 
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
