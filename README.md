@@ -7,7 +7,7 @@ Product Designer | Front-end programming enthusiast.
   <a href="https://twitter.com/souvinivieira" target="_blank"><img src="https://img.shields.io/badge/-viniciussaturnino-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 <br>
-##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
