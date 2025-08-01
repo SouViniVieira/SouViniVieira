@@ -43,4 +43,3 @@ Turning complex workflows into intuitive, accessible, and high‑impact digital 
 
 ### 🌎 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvinivieira/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.vieira@gmail.com)  
