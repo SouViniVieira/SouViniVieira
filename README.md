@@ -25,12 +25,15 @@ Turning complex workflows into intuitive, accessible, and high‑impact digital 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ### 📌 Highlighted Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
+| **Trechinho** | AI‑powered platform for video summarization and transcription. Generates text, podcast, and topic‑based summaries. | React, Node.js, TypeScript, OpenAI API, Firebase |
 | **Netflix Clone** | Responsive Netflix UI clone for #7DaysOfCode | HTML, CSS, JS |
 | **NLW eSports** | Event project built during Rocketseat's NLW | HTML, JS |
 | **VueJS Studies** | Component and UI experiments with VueJS | Vue, HTML, CSS |
