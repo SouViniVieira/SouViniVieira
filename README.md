@@ -47,7 +47,7 @@ With around 5 years of experience in product design, I bridge the gap between hu
 ### 📚 Currently Learning & Exploring
 
 - **Cybersecurity:** Exploring core concepts in information security, focusing on [inserir seu foco em Cybersec aqui] to build more resilient and secure digital products.
-- **Advanced Tech Roles:** Deepening knowledge in IT infrastructure, software engineering, and data analysis in preparation for high-level Brazilian public service exams (TCU, Banco do Brasil, Telebras).
+- **Advanced Tech Roles:** Deepening knowledge in IT infrastructure, software engineering, and data analysis.
 
 ---
 
