@@ -9,8 +9,9 @@ With around 5 years of experience in product design, I bridge the gap between hu
 
 - **UX & Product Design:** Spearheading UI/UX initiatives, establishing Design Systems (often utilizing Material UI), and prototyping complex administrative and consular workflows.
 - **Fullstack Development:** Turning high-fidelity designs into scalable applications using **React**, **Vue**, **Node.js**, and **TypeScript**.
+- **Automation & Scripting:** Creating utility scripts and game automations using **Python** to optimize routines and workflows.
 - **Web Accessibility (a11y):** Developing zero-dependency utilities and ensuring UI components strictly adhere to WCAG accessibility standards.
-- **AI & Automation:** Integrating intelligent features and automating workflows using the **OpenAI API**, **Firebase**, and **AWS SDK**.
+- **AI Integration:** Integrating intelligent features using the **OpenAI API**, **Firebase**, and **AWS SDK**.
 
 ---
 
@@ -18,6 +19,7 @@ With around 5 years of experience in product design, I bridge the gap between hu
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -37,7 +39,15 @@ With around 5 years of experience in product design, I bridge the gap between hu
 |--------|-------------|-------|
 | **[FocusTrap](https://github.com/SouViniVieira/FocusTrap)** | A lightweight, zero-dependency library for web accessibility (a11y). Ensures robust keyboard navigation by trapping focus within UI overlays. Fully tested with Vitest. | TypeScript, Vanilla JS, DOM, Vitest |
 | **Trechinho** | AI‑powered platform for video summarization and transcription. Generates text, podcast, and topic‑based summaries from media inputs. | React, Node.js, TypeScript, OpenAI, Firebase |
+| **[AutoTamer UOAlive](https://github.com/SouViniVieira/AutoTamer-ScriptUO)** | Animal Taming leveling automation script for Ultima Online. Automatically tames, renames, and releases creatures keeping the shard economy untouched. | Python, TazUO API |
 | **Enterprise & Government UX** | UI/UX concepts, user testing, and component-based prototyping for complex, high-stakes government systems (e.g., consular services and resource management). | Figma, React, Material UI, Tailwind |
+
+---
+
+### 📚 Currently Learning & Exploring
+
+- **Cybersecurity:** Exploring core concepts in information security, focusing on [inserir seu foco em Cybersec aqui] to build more resilient and secure digital products.
+- **Advanced Tech Roles:** Deepening knowledge in IT infrastructure, software engineering, and data analysis in preparation for high-level Brazilian public service exams (TCU, Banco do Brasil, Telebras).
 
 ---
 
